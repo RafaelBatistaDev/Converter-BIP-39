@@ -15,7 +15,7 @@ toolbox enter 2-Convverter-BIP-39
 ```
 
 
-``bash
+```bash
 #(Opcional, mas recomendado) Cria um ambiente virtual para isolar ainda mais as libs do projeto
 uv init
 uv venv
