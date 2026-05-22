@@ -24,7 +24,7 @@ uv sync --all-groups
 uv lock
 ```
 
-``bash
+```bash
 python3 converter.py
 ```
 
